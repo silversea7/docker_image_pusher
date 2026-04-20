@@ -1,4 +1,4 @@
-docker pull mcr.microsoft.com/openjdk/jdk:17-ubuntu
+mcr.microsoft.com/openjdk/jdk:17-ubuntu
 nginx
 postgres:16
 redis:7.0.5
