@@ -8,4 +8,4 @@ postgres:16
 redis:7.0.5
 kkfile:4.1.0
 kkfile:4.4.0
-
+openjdk:17-ubuntu-24.04-new
