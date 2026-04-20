@@ -1,5 +1,5 @@
 nginx
-openjdk:17-ubuntu-24.04-new
+openjdk:17
 postgres:16
 redis:7.0.5
 kkfile:4.4.0
