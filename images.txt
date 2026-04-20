@@ -1,5 +1,5 @@
-nginx
 docker.io/library/openjdk:17
+nginx
 postgres:16
 redis:7.0.5
 kkfile:4.4.0
